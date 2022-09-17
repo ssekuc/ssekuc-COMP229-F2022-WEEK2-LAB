@@ -1,0 +1,19 @@
+{
+  "name": "301206417",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssekuc/COMP229-F2022-WEEK2-LAB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssekuc/COMP229-F2022-WEEK2-LAB/issues"
+  },
+  "homepage": "https://github.com/ssekuc/COMP229-F2022-WEEK2-LAB#readme"
+}
